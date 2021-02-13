@@ -7,7 +7,7 @@
 //
 
 import Foundation
-
+//hey!
 struct WeatherManager {
     let weatherURL = "https://api.openweathermap.org/data/2.5/weather?appid=6a7d433d7fb1a765c1ce5c7056d06b51&units=metric"
     
